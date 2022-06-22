@@ -2,49 +2,37 @@
 layout: homepage
 ---
 
-## About Me
 
-I am an affiliated researcher at Copenhagen Business School, currently working in the sector of data science 
+## Hi, My Name is Suen. Welcome!
 
-## Research Interests
+<br>
+<br>
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+## About me
 
-## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+I am an affiliated researcher at Copenhagen Business School, currently working in the industry in the field of data science. I obtained a PhD in Political Science and Economics from the department of International Economics and Government at Copenhagen Business School in 2021. 
+
+<br>
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+- Suen Wang. (2022). "Do Women Always Represent Women? The Effects of Gender Quotas on Substantive Representation." forthcoming in *Political Behavior*
+  [[PDF](https://www.dropbox.com/s/3dy286tfglxotxb/Publication2.pdf?dl=0)] 
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 
-## Services
+- Suen Wang. (2021). "Gender Equality without Democracy? Higher Education Expansion and Authoritarian Values." *Governance*
+  [[Link to the Publication](https://onlinelibrary.wiley.com/doi/pdf/10.1111/gove.12580?casa_token=oPeGAg2p8_0AAAAA:22Bqf6x1GvHusJxC3HasW8aBX8m2cggJVgH5145BUd0RQI_-aMBpYd-Qa7UbTalob4V99MZTK4b6HYB1)] [[PDF](https://www.dropbox.com/s/9fluf8ipm20ac0q/Publication1.pdf?dl=0)]
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+<br>
+
+
+## CV
+
+
+[[Link to the CV](https://www.dropbox.com/s/9fluf8ipm20ac0q/Publication1.pdf?dl=0)]
+
+<br>
+<br>
+

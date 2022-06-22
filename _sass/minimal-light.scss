@@ -82,7 +82,7 @@ papertitle {
     }
 
     .image.avatar {
-      border-radius: 100%;
+      border-radius: 0%;
     }
 
       .image.avatar:before {
@@ -90,8 +90,8 @@ papertitle {
       }
 
       .image.avatar img {
-        border-radius: 100%;
-        width: 50%;
+        border-radius: 0%;
+        max-width: 200px;
         padding:20px;
       }
 
@@ -217,7 +217,8 @@ th {
 }
 
 img {
-  max-width:100%;
+  max-width: 200px;
+  border-radius: 0%;
 }
 
 header {
@@ -360,9 +361,8 @@ footer {
 
 
    .image.avatar img {
-        border-radius: 100%;
-        width: 117px;
-        padding:20px;
+        border-radius: 0%;
+        max-width: 200px;
       }
   #head1o2 {
     visibility: hidden;
@@ -407,8 +407,8 @@ footer {
   }
 
   .image.avatar img {
-      border-radius: 100%;
-      width: 95px;
+      border-radius: 0%;
+      max-width: 200px;
       padding:20px;
   }
   #head1o2 {
