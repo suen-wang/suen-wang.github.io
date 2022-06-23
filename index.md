@@ -15,7 +15,7 @@ I am an affiliated researcher at Copenhagen Business School, currently working i
 
 <br>
 
-## Publications
+## Publications from My PhD Project
 
 
 - Suen Wang. (2022). "Do Women Always Represent Women? The Effects of Gender Quotas on Substantive Representation." forthcoming in *Political Behavior*
@@ -27,12 +27,5 @@ I am an affiliated researcher at Copenhagen Business School, currently working i
 
 <br>
 
-
-## CV
-
-
-[[Link to the CV](https://www.dropbox.com/s/9fluf8ipm20ac0q/Publication1.pdf?dl=0)]
-
-<br>
 <br>
 
