@@ -18,8 +18,7 @@ I am an affiliated researcher at Copenhagen Business School, currently working i
 ## Publications from My PhD Project
 
 
-- Suen Wang. (2022). "Do Women Always Represent Women? The Effects of Gender Quotas on Substantive Representation." forthcoming in *Political Behavior*
-  [[PDF](https://www.dropbox.com/s/3dy286tfglxotxb/Do_Women_Always_Represent_Women.pdf?dl=0)] 
+- Suen Wang. (2022). "Do Women Always Represent Women? The Effects of Gender Quotas on Substantive Representation." *Political Behavior* [[Link to the Publication](https://rdcu.be/cRdkO)] [[PDF](https://www.dropbox.com/s/agy6nv2yaicc6zu/Do_Women_Always_Represent_Women.pdf?dl=0)] 
 
 
 - Suen Wang. (2021). "Gender Equality without Democracy? Higher Education Expansion and Authoritarian Values." *Governance*
