@@ -11,11 +11,11 @@ layout: homepage
 ## About me
 
 
-I am an affiliated researcher at Copenhagen Business School, working in the field of data science. I obtained a PhD in Political Science and Economics from the Department of International Economics and Government at Copenhagen Business School in 2021. 
+I am an affiliated researcher at Copenhagen Business School, currently working in the field of data science. I obtained a PhD in Political Science and Economics from the Department of International Economics and Government at Copenhagen Business School in 2021. 
 
 <br>
 
-## Publications from My PhD Project
+## Publications
 
 
 - Suen Wang. (2022). "Do Women Always Represent Women? The Effects of Gender Quotas on Substantive Representation." *Political Behavior* [[Link to the Publication](https://rdcu.be/cRdkO)] [[PDF](https://www.dropbox.com/s/agy6nv2yaicc6zu/Do_Women_Always_Represent_Women.pdf?dl=0)] 
