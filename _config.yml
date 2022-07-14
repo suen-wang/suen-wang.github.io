@@ -11,4 +11,5 @@ description: Suen's personal website
 canonical: https://minimal-light.yyliu.net/
 remote_theme: jekyll/minima
 plugins_dir: jekyll-remote-theme
-
+plugins:
+  - jekyll-seo-tag
