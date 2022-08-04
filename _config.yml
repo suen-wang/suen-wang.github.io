@@ -8,4 +8,3 @@ google_analytics: G-853E2BS07F
 favicon: ./assets/img/favicon2.png
 favicon_dark: ./assets/img/favicon2.png
 description: Suen Wang, Ph.D. Copenhagen Business School
-plugins: - jekyll-seo-tag
