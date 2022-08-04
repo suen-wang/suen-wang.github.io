@@ -11,7 +11,7 @@ layout: homepage
 ## About me
 
 
-I am a research associate at Copenhagen Business School, currently working in the field of data science. I obtained a PhD in Political Science and Economics from the Department of International Economics and Government at Copenhagen Business School in 2021. 
+I am a research associate at Copenhagen Business School, currently working in the field of data science. I obtained a PhD in Political Science and Economics at Copenhagen Business School in 2021. 
 
 <br>
 
