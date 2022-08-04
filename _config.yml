@@ -7,7 +7,5 @@ avatar: ./assets\img\DSC_6981.jpg
 google_analytics: G-853E2BS07F
 favicon: ./assets/img/favicon2.png
 favicon_dark: ./assets/img/favicon2.png
-description: Suen's personal website
-remote_theme: jekyll/minima
-plugins_dir: jekyll-remote-theme
+description: Suen Wang, Ph.D.
 plugins: - jekyll-seo-tag
