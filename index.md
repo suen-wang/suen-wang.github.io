@@ -11,7 +11,8 @@ layout: homepage
 ## About me
 
 
-I am an assistant professor at the Department of Politics and Society at Aalborg University. I earned my Ph.D. in Political Science and Economics from Copenhagen Business School in 2021. In 2025, I was a visiting scholar at the Weatherhead Center for International Affairs at Harvard University.
+I am an Assistant Professor at the Department of Politics and Society at Aalborg University, a position I have held since 2023. In 2025, I was a visiting scholar at the Weatherhead Center for International Affairs at Harvard University. Before my current role, I worked for two years in the private sector after earning my Ph.D. in Political Science and Economics from Copenhagen Business School in 2021.
+
 
 <br>
 
