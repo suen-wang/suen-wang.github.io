@@ -17,7 +17,7 @@ I am an assistant professor at the Department of Politics and Society at Aalborg
 
 ## Publications
 
-- 2025 "When Nature Strikes: How Different Types of Regimes Exploit Natural Disasters for Fiscal Expansion" *Governance* (with M. D. Jensen)
+- 2025 "When Nature Strikes: Do Different Regimes Use Natural Disasters for Fiscal Expansion?" *Governance* (with M. D. Jensen)
   [[PDF](https://www.dropbox.com/scl/fi/i3sylmttb6a3glnjb7q0e/ExCrises.pdf?rlkey=qgop5jrdr1oimbrvlapk69m1j&st=c903r3yn&dl=0)]
 
 - 2024 "Contagious Representation? How Regime Type Conditions the Effect of Legislative Gender Quotas on Equal Access to State Jobs" *Democratization* (with M. D. Jensen)
