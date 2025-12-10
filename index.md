@@ -18,7 +18,7 @@ I am an Assistant Professor at Aalborg University and a Research Associate at Co
 
 ## Publications
 
-- 2025 "Do Gender Quotas Increase Legislative Voting Attendance? The Case of the European Parliament" *Journal of European Public Policy* (with M. D. Jensen) 
+- 2025 "Do Gender Quotas Increase Legislative Voting Attendance? The Case of the European Parliament" *Journal of European Public Policy* (with M. D. Jensen) [[Link to the Publication](https://www.tandfonline.com/doi/full/10.1080/13501763.2025.2596130?src=)]
   [[PDF](https://www.dropbox.com/scl/fi/22eywnflf9kpf328dnhd4/JEPP_254988612_formatted.pdf?rlkey=ibdt9xpa6fba5cxm4fvz8rhyi&st=79wwh291&dl=0)]
 
 - 2025 "When Nature Strikes: Do Different Regimes Use Natural Disasters for Fiscal Expansion?" *Governance* (with M. D. Jensen) [[Link to the Publication](https://onlinelibrary.wiley.com/doi/10.1111/gove.70060)]
