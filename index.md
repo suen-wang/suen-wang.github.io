@@ -10,9 +10,7 @@ layout: homepage
 
 ## About me
 
-
-I am an Assistant Professor at Aalborg University and a Research Associate at Copenhagen Business School, positions I have held since 2023. In 2025, I was a visiting scholar at the Weatherhead Center for International Affairs at Harvard University. Before my current role, I worked for two years in the industry after earning my Ph.D. in Political Science and Economics from Copenhagen Business School in 2021.
-
+I am a Postdoc at Roskilde University. In 2025, I was a Visiting Scholar at the Weatherhead Center for International Affairs at Harvard University. Previously, I was as an Assistant Professor at Aalborg University and a Research Associate at Copenhagen Business School (2023-2024). I also worked for two years in the industry after earning my Ph.D. in Political Science and Economics from Copenhagen Business School in 2021.
 
 <br>
 
